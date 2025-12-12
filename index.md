@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an undergraduate student at Hankuk University of Foreign Studies majoring in Computer Science and Spanish.
 
 ## Research Interests
 
@@ -20,4 +20,7 @@ I am a Ph.D. student at ...
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% comment %}
+{% include_relative _includes/services.md %}
+{% endcomment %}
+
