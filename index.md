@@ -11,6 +11,9 @@ I am an undergraduate student at Hankuk University of Foreign Studies majoring i
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
+Still on Updating
+
+
 <!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
